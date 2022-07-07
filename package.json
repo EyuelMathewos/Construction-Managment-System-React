@@ -6,7 +6,7 @@
     "browser-session-store": "^2.0.2",
     "contentful": "^7.8.1",
     "immutability-helper": "^3.0.0",
-    "moment": "^2.26.0",
+    "moment": "^2.29.4",
     "qs": "^6.7.0",
     "react": "latest",
     "react-dnd": "^7.4.5",
